@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.e9cab13d.css",
+    "main.js": "/Portfolio-website/static/js/main.171c651e.js",
+    "static/media/Introduction to JavaScript_certificate.jpg": "/Portfolio-website/static/media/Introduction to JavaScript_certificate.5a77c1cebdad4ec445b7.jpg",
+    "static/media/Introduction to HTML_certificate.jpg": "/Portfolio-website/static/media/Introduction to HTML_certificate.354ca9bbf20adf7201c3.jpg",
+    "static/media/Introduction to CSS_certificate.jpg": "/Portfolio-website/static/media/Introduction to CSS_certificate.e4b858c26ef7f8253bb3.jpg",
+    "static/media/Introduction to C_certificate (3).jpg": "/Portfolio-website/static/media/Introduction to C_certificate (3).d2aca16bb0ae90abbd6b.jpg",
+    "static/media/undraw_web_development_0l6v.svg": "/Portfolio-website/static/media/undraw_web_development_0l6v.888eb305762e11b8cdc3cf6dcc0ac8bf.svg",
+    "static/media/undraw_programmer_re_owql.svg": "/Portfolio-website/static/media/undraw_programmer_re_owql.15dd09ebea3401311eca3a36ea11722b.svg",
+    "static/media/undraw_flutter_dev_wvqj.svg": "/Portfolio-website/static/media/undraw_flutter_dev_wvqj.03329cf07638b255064eda6c50ae5fc5.svg",
+    "static/media/icons8-réagir.svg": "/Portfolio-website/static/media/icons8-réagir.e7574af26628c8d8cc52d64e015eb898.svg",
+    "static/media/undraw_personal_information_re_vw8a (1).svg": "/Portfolio-website/static/media/undraw_personal_information_re_vw8a (1).4a273af7fb91d0d6324b6b2f52d80971.svg",
+    "static/media/icons8-c-sharp-logo.svg": "/Portfolio-website/static/media/icons8-c-sharp-logo.8043155e2bdecddb7661f1fecb380b5f.svg",
+    "static/media/icons8-js.svg": "/Portfolio-website/static/media/icons8-js.aa17b7a345ae93056a398bba0f01b50c.svg",
+    "static/media/icons8-css.svg": "/Portfolio-website/static/media/icons8-css.19cd0dec3a45c84933cf89413da68d3e.svg",
+    "static/media/icons8-node-js.svg": "/Portfolio-website/static/media/icons8-node-js.b7d2308b16bd82b67987d0d1682f8e6b.svg",
+    "static/media/icons8-github.svg": "/Portfolio-website/static/media/icons8-github.dc49a960a2d3c5a49c806f6188a7733b.svg",
+    "static/media/logo-whatsapp.svg": "/Portfolio-website/static/media/logo-whatsapp.001c71e7748d8b38420e463a3b126901.svg",
+    "index.html": "/Portfolio-website/index.html",
+    "static/media/icons8-git.svg": "/Portfolio-website/static/media/icons8-git.aeeb13ab71f0fa41e8bb99688f96cfdd.svg",
+    "static/media/logo-instagram.svg": "/Portfolio-website/static/media/logo-instagram.b15bc616029fa0ee5c09334bd2d75d12.svg",
+    "static/media/icons8-dart.svg": "/Portfolio-website/static/media/icons8-dart.199a45961bc0ea110531b91b573c7c82.svg",
+    "static/media/icons8-html-48.svg": "/Portfolio-website/static/media/icons8-html-48.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "static/media/logo-facebook.svg": "/Portfolio-website/static/media/logo-facebook.6555562764c3d103f26762c808f8a357.svg",
+    "main.e9cab13d.css.map": "/Portfolio-website/static/css/main.e9cab13d.css.map",
+    "main.171c651e.js.map": "/Portfolio-website/static/js/main.171c651e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9cab13d.css",
+    "static/js/main.171c651e.js"
+  ]
+}
